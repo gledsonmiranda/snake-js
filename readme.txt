@@ -1,4 +1,4 @@
-Stud Reference
+Reference:
 
 https://medium.com/@anMagpie/simple-snake-game-in-html-and-javascript-ed78cffac36
 
